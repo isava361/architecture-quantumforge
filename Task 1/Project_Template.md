@@ -55,7 +55,7 @@ C учётом SOC 2 и того, что индексация — фоновая
 
 MVP (без GPU, всё в облаке):
 Инференс: OpenAI.
-Эмбеддинги: OpenAI text-embedding-3-small (для раннего мвп можно использовать embedinggemma-300m).
+Эмбеддинги: OpenAI text-embedding-3-small (для раннего мвп можно использовать all-MiniLM-L6-v2).
 Узел: c7a.2xlarge (8 vCPU, 16–32 GB RAM) для API+retriever. Дешево, быстро запустить.
 
 Гибрид (реком.): локальные эмбеддинги + облачная LLM
