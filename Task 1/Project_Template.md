@@ -78,7 +78,7 @@ LLM-провайдер: по умолчанию GPT-5/mini, Llama 3.1-8B как 
 
 Процессы качества и улучшений:
 
-Feedback-петля «Я не знаю» → Confluence backlog. Темы без ответов автоматически создают тикеты с приоритетом и владельцем (CODEOWNERS/ADR-owner).
+Feedback-петля «Я не знаю» - Confluence backlog. Темы без ответов автоматически создают тикеты с приоритетом и владельцем (CODEOWNERS/ADR-owner).
 
 RAG-оценки по набору golden-queries (Dev/Support/PM/Onboarding) + метрики answer faithfulness.
 
